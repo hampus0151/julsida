@@ -1,0 +1,33 @@
+body {
+	background-color: #ce0b0b;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+header#top {
+	background-color: black;
+	width: 79%;
+	height:3em;
+	font-family: 'roboto';
+	margin-left: 6em;
+}
+section#subtop {
+	height: 100%;
+	width: 79%
+}
+.btn-wrapper button {
+	background: #063607;
+	color: #FFF;
+	padding: 0.5em;
+	border: 0;
+	margin-left: 0em;
+	height: 100%;
+}
+h1 {
+	background-color: red;
+	width: 79%;
+	text-align: center;
+}
+h2{
+	width: 79%;
+	margin-left: 4em;
+}
